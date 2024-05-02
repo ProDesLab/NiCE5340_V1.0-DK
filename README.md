@@ -4,5 +4,5 @@
 
 ## NiCE5340 carrier board
 
-This board is designed to support and facilitate application development with the **NiCE5340 SoM**
-It is very simple and all the pads on the SoM are connected to the board header connectors.
+This board is designed to support and facilitate application development with the **NiCE5340 SoM** <br />
+It is very simple and all the pads on the SoM are connected to the board header connectors. <br />
